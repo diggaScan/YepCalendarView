@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="current_day">#c6c91c56</color>
+    <color name="on_duty_color">#7a2bb6</color>
+    <color name="off_duty_color">#51c941</color>
+    <color name="on_business_color">#454fc4</color>
+    <color name="on_vacate_color">#6b666a</color>
+    <color name="overtime_color">#dad664</color>
+    <color name="on_guard_color">#ca552a</color>
+    <color name="unable_day_color">#a9959691</color>
+
+
+</resources>

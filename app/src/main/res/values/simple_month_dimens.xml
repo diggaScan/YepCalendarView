@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="day_of_week_height">36dp</dimen>
+    <dimen name="day_height">40dp</dimen>
+    <dimen name="cell_width">44dp</dimen>
+    <dimen name="day_of_week_text_size">18sp</dimen>
+    <dimen name="day_text_size">16sp</dimen>
+    <dimen name="state_label_size">8sp</dimen>
+</resources>
